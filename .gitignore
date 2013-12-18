@@ -1,5 +1,8 @@
 *.py[cod]
 
+#prevent IDE files
+.idea
+
 # C extensions
 *.so
 
